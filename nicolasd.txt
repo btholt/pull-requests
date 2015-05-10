@@ -1,1 +1,2 @@
 something funny: I can eat a limon as an orange.
+This change done before "git add"
