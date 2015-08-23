@@ -2,4 +2,5 @@ haha deleted part of hahaha
 
 something new added
 
-changing name in git
+changing name in git bash
+
