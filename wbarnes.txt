@@ -1,0 +1,3 @@
+How do you comfort a Javascript bug?
+
+You console it!!
