@@ -1,0 +1,1 @@
+This is a dumb fact. How to I write to a file using command line? Should explain that next time.
