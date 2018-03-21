@@ -17,3 +17,13 @@ in the git bash shell make sure you have cd (change directory) to the correct fo
 then in the git bash shell type 'git clone '
 then to paste (the copy in the clipboard) into the git bash shell press 'Shift + Ins' (press shift key with insert key together)
 then press enter and that should clone the fork to your computer
+
+other useful git commands
+git status 
+git add fileName.extension (add updates that will be committed)
+git rm fileName.extension (remove updates that will be committed)
+git commit -m "write your message here"
+git push (publishes your local commits)
+git checkout -- fileName.extension (discards changes in working directory)
+git reset HEAD fileName.extension (to unstage git commit)
+git log (to see all commits)
