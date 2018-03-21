@@ -1,0 +1,8 @@
+pull-request forked 
+writing something interesting
+noticed some did some didn't
+writing this on sublime text 3
+had to use git bash
+the commands don't work on windows cmd.exe
+windows doesn't recognize the command 'git'
+'git' is not recognized as an internal or external command, operable program or batch file.
