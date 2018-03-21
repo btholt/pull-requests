@@ -1,8 +1,19 @@
 pull-request forked 
 writing something interesting
-noticed some did some didn't
+noticed some did, some didn't
+
 writing this on sublime text 3
-had to use git bash
-the commands don't work on windows cmd.exe
+
+had to use git bash command line shell
+the commands don't work in windows cmd.exe
 windows doesn't recognize the command 'git'
 'git' is not recognized as an internal or external command, operable program or batch file.
+
+instructions for git bash command line shell
+after forking from git hub
+copy to clipboard by left clicking on the green button named clone or download
+then click on the clipboard icon to the right of the URL
+in the git bash shell make sure you have cd (change directory) to the correct folder you want to clone the forked file
+then in the git bash shell type 'git clone '
+then to paste (the copy in the clipboard) into the git bash shell press 'Shift + Ins' (press shift key with insert key together)
+then press enter and that should clone the fork to your computer
