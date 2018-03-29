@@ -1,4 +1,4 @@
-Name: Anuradha Channappa
+Name: Ac
 Location: Australia
 Job: software engineer
 Interests: Trekking hiking javascript etc
