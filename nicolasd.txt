@@ -1,5 +1,0 @@
-something funny: I can eat a limon as an orange.
-This change done before "git add"
-This change done adter "git add" but before the "git commit"
-Great yet another change before the next "git add"
-All these lines should now be committed...
