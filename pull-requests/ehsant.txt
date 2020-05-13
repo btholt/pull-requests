@@ -1,0 +1,7 @@
+I used to own an eagle!
+close ehsant.exe
+-- INSERT --
+$ close ehsant.txt
+ESC :q!
+:q!
+
