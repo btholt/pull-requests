@@ -1,0 +1,38 @@
+pull-request forked 
+writing something interesting
+noticed some did, some didn't
+
+writing this on sublime text 3
+
+had to use git bash command line shell
+the commands don't work in windows cmd.exe
+windows doesn't recognize the command 'git'
+'git' is not recognized as an internal or external command, operable program or batch file.
+
+instructions for git bash command line shell
+after forking from git hub
+copy to clipboard by left clicking on the green button named clone or download
+then click on the clipboard icon to the right of the URL
+in the git bash shell make sure you have cd (change directory) to the correct folder you want to clone the forked file
+then in the git bash shell type 'git clone '
+then to paste (the copy in the clipboard) into the git bash shell press 'Shift + Ins' (press shift key with insert key together)
+then press enter and that should clone the fork to your computer
+
+other useful git commands
+git status 
+git add fileName.extension (add updates that will be committed)
+git rm fileName.extension (remove updates that will be committed)
+git commit -m "write your message here"
+git push (publishes your local commits)
+git checkout -- fileName.extension (discards changes in working directory)
+git reset HEAD fileName.extension (to unstage git commit)
+git log (to see all commits)
+git --help
+git help -a
+git help -g
+git help <command> (fill in command without angle brackets for specific subcommand)
+git help <concept> (fill in concept without angle brackets for specific concept)
+
+useful sites
+https://education.github.com/git-cheat-sheet-education.pdf
+https://services.github.com/on-demand/downloads/github-bash-cheat-sheet/
