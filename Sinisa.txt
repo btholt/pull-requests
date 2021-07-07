@@ -1,0 +1,3 @@
+Samo Jako da jaKije ne mere
+cd
+^Z
