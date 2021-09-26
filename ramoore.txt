@@ -1,1 +1,11 @@
-I'm a factory supervisor. I am not a turtle.
+I'm a factory supervisor. I am not a turtle. Probably.
+
+git status // shows status of file changes(version control!) and whether those files are included in the upcoming commit
+
+git clone *url* // clones a repository(Get url from GitHub, etc.)
+
+git commit
+    -m "comment"  // adds comment to commit and prevents the terminal from opening the git config window thingy.
+
+git push origin master //pushes your changes back to the repository origin that you cloned
+
