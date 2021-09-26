@@ -1,8 +1,11 @@
 I'm a factory supervisor. I am not a turtle. Probably.
 
+git clone *url* // clones a repository(Get url from GitHub, etc.)
+
 git status // shows status of file changes(version control!) and whether those files are included in the upcoming commit
 
-git clone *url* // clones a repository(Get url from GitHub, etc.)
+git add *filename*// add changes(new files, edits, etc.) to the upcoming commit.
+	'.'  adds all changes
 
 git commit
     -m "comment"  // adds comment to commit and prevents the terminal from opening the git config window thingy.
