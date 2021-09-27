@@ -2,6 +2,10 @@ I'm a factory supervisor. I am not a turtle. Probably.
 
 git clone *url* // clones a repository(Get url from GitHub, etc.)
 
+git init // turns current directory into git repository, also creates hidden .git folder
+
+git remote add origin "http..."  connects this repository to the url you provide for storage.
+
 git status // shows status of file changes(version control!) and whether those files are included in the upcoming commit
 
 git add *filename*// add changes(new files, edits, etc.) to the upcoming commit.
