@@ -15,4 +15,4 @@ git commit
     -m "comment"  // adds comment to commit and prevents the terminal from opening the git config window thingy.
 
 git push origin master //pushes your changes back to the repository origin that you cloned
-
+    -u    I think this adds tracking the first time you link a repo(If you didn't cone it?)
