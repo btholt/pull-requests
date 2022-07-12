@@ -1,0 +1,18 @@
+I'm a factory supervisor. I am not a turtle. Probably.
+
+git clone *url* // clones a repository(Get url from GitHub, etc.)
+
+git init // turns current directory into git repository, also creates hidden .git folder
+
+git remote add origin "http..."  connects this repository to the url you provide for storage.
+
+git status // shows status of file changes(version control!) and whether those files are included in the upcoming commit
+
+git add *filename*// add changes(new files, edits, etc.) to the upcoming commit.
+	'.'  adds all changes
+
+git commit
+    -m "comment"  // adds comment to commit and prevents the terminal from opening the git config window thingy.
+
+git push origin master //pushes your changes back to the repository origin that you cloned
+    -u    I think this adds tracking the first time you link a repo(If you didn't cone it?)
